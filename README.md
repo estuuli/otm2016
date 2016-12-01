@@ -10,3 +10,5 @@ As Kanye West said:
 > the present is our past.
 
 Fäfäffäfäfäfää
+
+[Linkki kaavioon](https://github.com/estuuli/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
