@@ -12,3 +12,5 @@ As Kanye West said:
 Fäfäffäfäfäfää
 
 [Linkki kaavioon](https://github.com/estuuli/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
+
+Nyt tehdään tänne vaikka tämmönen muutos.
